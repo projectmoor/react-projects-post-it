@@ -5,6 +5,7 @@ function Footer() {
   return (
     <footer>
       <p>Copyright ⓒ {year}</p>
+      <p>supported by material-ui</p>
     </footer>
   );
 }
